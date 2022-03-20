@@ -1,0 +1,1 @@
+# Cryptocase - smallcase for crypto
